@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RNCryptor",
+        "repositoryURL": "https://github.com/RNCryptor/RNCryptor.git",
+        "state": {
+          "branch": "master",
+          "revision": "f5198d21049bd22e904fdef9a4c5d8c37cac505b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
